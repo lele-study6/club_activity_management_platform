@@ -1,0 +1,5 @@
+// 统一出口，页面只允许 import from '@/api'
+export * from './modules/auth'
+export * from './modules/activity'
+export * from './modules/enroll'
+export * from './modules/club'
